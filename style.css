@@ -98,7 +98,7 @@ a:hover {
 
 #citation {
     font-style: italic;
-    font-size: 1,3em;
+    font-size: 1.3em;
 }
 
 #signature {
@@ -793,7 +793,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #f3d66c;
 }
 
 .tc-white {
@@ -801,7 +801,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #f3d66c;
     color: #FFFFFF !important;
 }
 
@@ -819,7 +819,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C !important;
+    color: #f3d66c !important;
 }
 
 .ltc-atomic-tangerine:hover {
